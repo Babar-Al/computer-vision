@@ -1,14 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 pip install opencv-python
-
-
-# In[4]:
-
 
 import cv2
 
@@ -25,10 +16,5 @@ if image is not None:
     print(f"Channels: {channels}")
 else:
     print("Error: Could not read the image.")
-
-
-# In[ ]:
-
-
 
 
