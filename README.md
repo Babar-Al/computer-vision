@@ -1,4 +1,4 @@
-**EDA Using Univariate Analysis**
+#**EDA Using Univariate Analysis**
 
 This Jupyter Notebook demonstrates how to perform univariate analysis as part of Exploratory Data Analysis (EDA).
 The analysis focuses on understanding the distribution and properties of individual variables in a dataset, specifically:
