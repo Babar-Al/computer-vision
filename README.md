@@ -11,6 +11,6 @@ This simple Python script demonstrates how to read and display an image using th
 * OpenCV (cv2) library
 
 # **images**
-In the images I’ve uploaded, there are two examples demonstrating the capabilities of computer vision.
+In the images file I’ve uploaded, there are two examples demonstrating the capabilities of computer vision.
 * The first image showcases computer vision in action, detecting various objects in a public space.
 * second image is about face recognition.
