@@ -30,3 +30,7 @@ pandas
 numpy
 matplotlib
 seaborn
+
+**images**
+In the images I’ve uploaded, there are two examples demonstrating the capabilities of computer vision.
+The first image showcases computer vision in action, detecting various objects in a public space.
